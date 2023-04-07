@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Noto Sans Batak';
+    src: url('NotoSansBatak-Regular.eot');
+    src: url('NotoSansBatak-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansBatak-Regular.woff2') format('woff2'),
+        url('NotoSansBatak-Regular.woff') format('woff'),
+        url('NotoSansBatak-Regular.ttf') format('truetype'),
+        url('NotoSansBatak-Regular.svg#NotoSansBatak-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

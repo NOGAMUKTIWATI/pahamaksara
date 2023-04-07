@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Carakanjawa';
+    src: url('CARAKANJAWA.eot');
+    src: url('CARAKANJAWA.eot?#iefix') format('embedded-opentype'),
+        url('CARAKANJAWA.woff2') format('woff2'),
+        url('CARAKANJAWA.woff') format('woff'),
+        url('CARAKANJAWA.svg#Carakanjawa') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

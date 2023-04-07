@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Noto Sans Rejang';
+    src: url('NotoSansRejang.eot');
+    src: url('NotoSansRejang.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansRejang.woff2') format('woff2'),
+        url('NotoSansRejang.woff') format('woff'),
+        url('NotoSansRejang.ttf') format('truetype'),
+        url('NotoSansRejang.svg#NotoSansRejang') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Noto Sans Balinese';
+    src: url('NotoSansBalinese.eot');
+    src: url('NotoSansBalinese.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansBalinese.woff2') format('woff2'),
+        url('NotoSansBalinese.woff') format('woff'),
+        url('NotoSansBalinese.ttf') format('truetype'),
+        url('NotoSansBalinese.svg#NotoSansBalinese') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

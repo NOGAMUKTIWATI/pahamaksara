@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Sunda Prada";
+  src: url("sunda_prada-webfont.eot");
+  src: url("sunda_prada-webfont.eot?#iefix") format("embedded-opentype"),
+    url("sunda_prada-webfont.woff2") format("woff2"),
+    url("sunda_prada-webfont.woff") format("woff"),
+    url("sunda_prada-webfont.ttf") format("truetype"),
+    url("sunda_prada-webfont.svg#Sunda Prada") format("svg");
+}

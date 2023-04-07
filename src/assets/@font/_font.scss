@@ -1,0 +1,72 @@
+// use name variable fonts
+
+// Default font
+
+
+// Aksara font
+$NotoSansBalinese: "Noto Sans Balinese";
+$NotoSansBatak: "Noto Sans Batak";
+$SundaPrada: "Sunda Prada";
+$NotoSansRejang: "Noto Sans Rejang";
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// import font from external
+
+
+// font aksara bali
+@font-face {
+  font-family: "Noto Sans Balinese";
+  src: url("@font/bali_kompiwin/NotoSansBalinese.eot");
+  src: url("@font/bali_kompiwin/NotoSansBalinese.eot?#iefix")
+      format("embedded-opentype"),
+    url("@font/bali_kompiwin/NotoSansBalinese.woff2") format("woff2"),
+    url("@font/bali_kompiwin/NotoSansBalinese.woff") format("woff"),
+    url("@font/bali_kompiwin/NotoSansBalinese.ttf") format("truetype"),
+    url("@font/bali_kompiwin/NotoSansBalinese.svg#NotoSansBalinese")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+// font aksara batak
+@font-face {
+  font-family: "Noto Sans Batak";
+  src: url("@font/batak_kompiwin/NotoSansBatak-Regular.eot");
+  src: url("@font/batak_kompiwin/NotoSansBatak-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("@font/batak_kompiwin/NotoSansBatak-Regular.woff2") format("woff2"),
+    url("@font/batak_kompiwin/NotoSansBatak-Regular.woff") format("woff"),
+    url("@font/batak_kompiwin/NotoSansBatak-Regular.ttf") format("truetype"),
+    url("@font/batak_kompiwin/NotoSansBatak-Regular.svg#NotoSansBatak-Regular")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+// font aksara sunda
+@font-face {
+  font-family: "Sunda Prada";
+  src: url("@font/sunda_kompiwin/sunda_prada-webfont.eot");
+  src: url("@font/sunda_kompiwin/sunda_prada-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("@font/sunda_kompiwin/sunda_prada-webfont.woff2") format("woff2"),
+    url("@font/sunda_kompiwin/sunda_prada-webfont.woff") format("woff"),
+    url("@font/sunda_kompiwin/sunda_prada-webfont.ttf") format("truetype"),
+    url("@font/sunda_kompiwin/sunda_prada-webfont.svg#Sunda Prada")
+      format("svg");
+}
+
+@font-face {
+  font-family: "Noto Sans Rejang";
+  src: url("@font/rejang_kompiwin/NotoSansRejang.eot");
+  src: url("@font/rejang_kompiwin/NotoSansRejang.eot?#iefix")
+      format("embedded-opentype"),
+    url("@font/rejang_kompiwin/NotoSansRejang.woff2") format("woff2"),
+    url("@font/rejang_kompiwin/NotoSansRejang.woff") format("woff"),
+    url("@font/rejang_kompiwin/NotoSansRejang.ttf") format("truetype"),
+    url("@font/rejang_kompiwin/NotoSansRejang.svg#NotoSansRejang") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
